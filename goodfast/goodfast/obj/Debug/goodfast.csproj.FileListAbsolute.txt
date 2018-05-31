@@ -1,0 +1,16 @@
+c:\users\кеша\documents\visual studio 2015\Projects\goodfast\goodfast\bin\Debug\goodfast.exe.config
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.csprojResolveAssemblyReference.cache
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.Properties.Resources.resources
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.csproj.GenerateResource.Cache
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\bin\Debug\goodfast.exe
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\bin\Debug\goodfast.pdb
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.exe
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.pdb
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.XOR.resources
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.Caesar.resources
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.Menu.resources
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.Permutation.resources
+C:\Users\кеша\Documents\Visual Studio 2015\Projects\goodfast\goodfast\obj\Debug\goodfast.substitution.resources
+C:\Users\TEMP.DOM201\Desktop\Радионова\goodfast\goodfast\bin\Debug\goodfast.exe.config
+C:\Users\TEMP.DOM201\Desktop\Радионова\goodfast\goodfast\obj\Debug\goodfast.exe
+C:\Users\TEMP.DOM201\Desktop\Радионова\goodfast\goodfast\obj\Debug\goodfast.pdb
